@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * insert_node - To Inserts a number into a sorted singly-linked list.
+ * insert_node - Inserts a number into a sorted singly-linked list
  * @head: Pointer the head of the linked list.
  * @number: Number to insert.
  * Author - Nwuchu Uche
